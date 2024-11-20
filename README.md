@@ -17,7 +17,7 @@ programming and discovery.
 | S.No | Task No. | Status |
 |------|----------|--------|
 | 1    | Task-00  | Completed |
-| 2    | Task-01  | Incomplete |
+| 2    | Task-01  | Completed |
 | 3    | Task-02  | Incomplete |
 | 4    | Task-03  | Incomplete |
 | 5    | Task-04  | Incomplete |
