@@ -11,3 +11,6 @@ https://medium.com/@kurtsony16/analysis-of-linux-as-an-open-source-project-contr
 
 # Medium Blog on Open Source Conventions & Licenses
 https://medium.com/@kurtsony16/open-source-conventions-licenses-ca75c1b38bd7
+
+# Completion of Google Docking
+![Screenshot of Completion Page](https://github.com/user-attachments/assets/5be7ca6c-7410-49fa-be79-cc5b5c99bd57)
