@@ -1,6 +1,6 @@
-**Project Title**: Interactive Social Networking Platform (Inspired by Letterboxd)
-**Prepared by**: Kurt Sony Rebello
-**Date**: 25 November, 2024
+**Project Title**: Interactive Social Networking Platform (Inspired by Letterboxd) </br>
+**Prepared by**: Kurt Sony Rebello </br>
+**Date**: 25 November, 2024 </br>
 
 # 1. Introduction
 ## 1.1 Purpose of this Document
