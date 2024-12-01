@@ -23,6 +23,6 @@ programming and discovery.
 | 5    | Task-04  | Incomplete |
 | 6    | Task-05  | Completed |
 | 7    | Task-06  | Completed |
-| 8    | Task-07  | Incomplete |
+| 8    | Task-07  | Completed |
 | 9    | Task-08  | Incomplete |
 | 10   | Task-09  | Incomplete |
