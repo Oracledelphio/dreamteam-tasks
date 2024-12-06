@@ -1,0 +1,209 @@
+/* General Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #fdf1f1 !important;
+    background-image: none !important;
+    color: #333;
+  }
+  
+  .socials-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  /* Navbar */
+  .navbar {
+    margin-top: -10px;  
+    margin-left: -10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #F48F8F;
+    padding: 10px 15px;
+    border-radius: 8px;
+  }
+  
+  .logo {
+    margin-left: -30px;
+    margin-right: 800px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+  }
+  
+  .logo-img{
+    height: 65px;
+    width: 65px;
+  }
+  
+  .nav-links a{
+    align-items: center;
+    margin-left: 10px;
+    padding: 20px;
+    color:black;
+    font-weight: bold;
+    font-size: 18px;
+  } 
+  
+  .add-button {
+    background-color: #e86b8b;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+  }
+  
+  .add-button:hover {
+    transform: scale(1.15);
+  }
+  
+  /* Main Content */
+  .main-content {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .page-title {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 1.5rem;
+    color: #444;
+  }
+  
+  .section-title {
+    font-size: 1.2rem;
+    margin-bottom: 15px;
+    font-weight: 500;
+  }
+  
+  /* Featured Artists */
+  .artist-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 15px;
+  }
+  
+  .artist-card {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    text-align: center;
+    transition: transform 0.3s ease;
+    margin-bottom: 20px;
+  }
+  
+  .artist-card:hover {
+    transform: translateY(-10px);
+  }
+  
+  .artist-image {
+    width: 100%;
+    aspect-ratio: 1;
+    object-fit: cover;
+  }
+  
+  .artist-info {
+    padding: 10px;
+  }
+  
+  .artist-name {
+    font-weight: bold;
+    font-size: 1rem;
+  }
+  
+  .artist-listeners {
+    font-size: 0.9rem;
+    color: #666;
+  }
+  
+  .artist-add-button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    background-color: #ff6f6f;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .artist-add-button:hover {
+    background-color: #ff4b4b;
+  }
+  
+  /* Invite Friends */
+  .friends-list {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .friend-card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    transition: transform 0.3s ease;
+  }
+  
+  .friend-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .friend-info {
+    flex: 1;
+  }
+  
+  .friend-name {
+    font-weight: bold;
+  }
+  
+  .friend-stats {
+    font-size: 0.9rem;
+    color: #666;
+  }
+  
+  .friend-add-button {
+    background-color: #ff6f6f;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .friend-add-button:hover {
+    background-color: #ff4b4b;
+  }
+  
+  /* Footer */
+  .footer {
+    background-color: #F48F8F;
+    color: black;
+    text-align: left;
+    padding: 1rem;
+    width: 100%;
+    font-size: 20px;
+    font-weight: 500;
+  }
+  
+  .icons{
+    display: flex;
+    gap: 1rem;
+    width: 30px;
+    height: 30px;
+    margin-left: 1250px;
+    margin-top: -25px;
+  }
+  

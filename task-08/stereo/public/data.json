@@ -1,0 +1,63 @@
+{
+    "recentSongs": [
+      {
+        "title": "Ashes & Blood",
+        "artist": "L.G.",
+        "cover": "https://via.placeholder.com/100",
+        "rating": 4.5,
+        "dateAdded": "Nov 27"
+      },
+      {
+        "title": "Heart pt.6",
+        "artist": "GNX",
+        "cover": "https://via.placeholder.com/100",
+        "rating": 5,
+        "dateAdded": "Nov 24"
+      },
+      {
+        "title": "Rah Tah Tah",
+        "artist": "John Doe",
+        "cover": "https://via.placeholder.com/100",
+        "rating": 4.8,
+        "dateAdded": "Nov 20"
+      }
+    ],
+    "popularPlaylists": [
+      {
+        "name": "Lofi Chill Beats to Study",
+        "creator": "The_Lofi_Guy",
+        "cover": "https://via.placeholder.com/100",
+        "likes": 1200
+      },
+      {
+        "name": "Best Pop-Rock Album 2010",
+        "creator": "Chill_Rock",
+        "cover": "https://via.placeholder.com/100",
+        "likes": 950
+      },
+      {
+        "name": "Move and Groove",
+        "creator": "Metallica",
+        "cover": "https://via.placeholder.com/100",
+        "likes": 2000
+      }
+    ],
+    "featuredArtists": [
+      {
+        "name": "Kendrick Lamar",
+        "listeners": 120000,
+        "avatar": "https://via.placeholder.com/100"
+      },
+      {
+        "name": "Taylor Swift",
+        "listeners": 180000,
+        "avatar": "https://via.placeholder.com/100"
+      },
+      {
+        "name": "Travis Scott",
+        "listeners": 150000,
+        "avatar": "https://via.placeholder.com/100"
+      }
+    ]
+  }
+  
