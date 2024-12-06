@@ -17,13 +17,3 @@ Follow these steps to run Stereo locally:
 Ensure you have the following installed on your system:
 Node.js (v16 or later)
 npm
-
-# Installation
- ## Clone the repository:
-git clone https://github.com/your-username/stereo.git
-
- ## Navigate to the project directory:
-cd stereo
-
-## Install dependencies:
-npm install
