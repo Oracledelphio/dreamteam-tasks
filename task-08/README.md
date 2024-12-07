@@ -17,3 +17,14 @@ Follow these steps to run Stereo locally:
 Ensure you have the following installed on your system:
 Node.js (v16 or later)
 npm
+
+# Screenshots from the website can be found below:
+![image](https://github.com/user-attachments/assets/27f0169f-7b46-4d4e-b276-95782ed66c0b)
+![image](https://github.com/user-attachments/assets/b847644d-3cb9-475c-a115-622769dfccc6)
+![image](https://github.com/user-attachments/assets/3c916737-2933-4838-aa17-b065d5a693f7)
+![image](https://github.com/user-attachments/assets/53f8b9fd-f3a7-462a-8ff4-1cd0530ab3da)
+![image](https://github.com/user-attachments/assets/ba611a15-f632-479f-b077-2ee49cc20fdf)
+![image](https://github.com/user-attachments/assets/e3d81a66-1b13-433e-b39b-333fd2a77250)
+![image](https://github.com/user-attachments/assets/c770f30c-6f91-4630-9809-a5acea0ab7cc)
+![image](https://github.com/user-attachments/assets/cceb0325-63d4-48a3-8277-601b7119486b)
+![image](https://github.com/user-attachments/assets/959fa2e6-009f-47a1-ae7b-36c6baec2e9d)
